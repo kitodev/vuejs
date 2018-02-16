@@ -1,0 +1,15 @@
+{
+  "name": "vue-tutorial",
+  "version": "1.0.0",
+  "description": "First Vue.js application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kornel Toth",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kornel1991/vuejs.git"
+  }
+}
